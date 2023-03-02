@@ -1,0 +1,32 @@
+h1{ 
+    color: aqua;
+    border: 1px solid coral;
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+p{
+    background-color:blueviolet;
+    border: 1px solid red;
+    margin: 1em;
+    padding: 16px;
+    text-align: justify;
+}
+li{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+.section1{
+    color: chartreuse;
+    font-size: 30px;
+    text-align: right;
+    background-color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
